@@ -1,3 +1,5 @@
 #inclue <iostream>
 using namespace std;
-int main(){cout<<"hello world";return 0;}
+int main(){cout<<"hello world";
+cout<<"lan1\n";
+return 0;}
